@@ -216,7 +216,7 @@ The cognitive architecture offers several advantages over baseline models:
 2. **Adaptive behavior**: Adjusts to changing market regimes
 3. **Introspection**: Provides confidence estimates and reasoning traces
 4. **Cross-dimensional understanding**: Models relationships between different market aspects
-5. **Better generalization**: Performs better on novel patterns and extreme market conditions
+5. **Aims fro better generalization**: Aims to perform better on novel patterns and extreme market conditions
 6. **Robust dimension handling**: Properly manages 7-dimensional feature space
 7. **Enhanced evaluation**: Sophisticated handling of prediction vs target dimension mismatches
 
@@ -230,10 +230,8 @@ The cognitive architecture offers several advantages over baseline models:
 - Dimension handling ensures consistency between input features and predictions
 - Enhanced feature processing includes proper normalization and error handling
 
-## Contributing
+This project is licensed under the MIT License, with the following additional restriction:
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+**Copying and distribution of this project are strictly prohibited.**
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Users are permitted to view the project's code and functionality for educational or informational purposes only.
