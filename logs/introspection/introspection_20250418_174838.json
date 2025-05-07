@@ -1,0 +1,24 @@
+{
+  "timestamp": "20250418_174838",
+  "memory_usage_gb": 0.04458752,
+  "market_metrics": {
+    "price_accuracy": null,
+    "volume_correlation": null,
+    "returns_stability": null,
+    "volatility_prediction": null
+  },
+  "memory_stats": {
+    "memory_usage": 0.04458752,
+    "memory_usage_mean": 3.0,
+    "memory_usage_std": 0.0,
+    "memory_key_norm_mean": 6.4437360763549805,
+    "memory_value_norm_mean": 6.443734169006348,
+    "memory_market_importance": [
+      NaN,
+      NaN,
+      NaN,
+      NaN
+    ],
+    "memory_filled_capacity": 16
+  }
+}

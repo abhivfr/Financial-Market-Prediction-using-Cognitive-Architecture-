@@ -1,0 +1,40 @@
+{
+    "overall": {
+        "mse": 1.476971983909607,
+        "rmse": 1.2153073619087507,
+        "mae": 0.9332283735275269,
+        "direction_accuracy": 1.9425837320574162
+    },
+    "Regime 0: High Vol. Bull": {
+        "mse": 1.2942880392074585,
+        "rmse": 1.1376678070541764,
+        "mae": 0.8664554953575134,
+        "direction_accuracy": 2.021604938271605,
+        "samples": 324,
+        "percentage": 19.37799043062201
+    },
+    "Regime 1: High Vol. Bull": {
+        "mse": 1.3434803485870361,
+        "rmse": 1.1590859970627874,
+        "mae": 0.8900158405303955,
+        "direction_accuracy": 2.051440329218107,
+        "samples": 486,
+        "percentage": 29.066985645933013
+    },
+    "Regime 2: High Vol. Bull": {
+        "mse": 1.5701463222503662,
+        "rmse": 1.253054796188246,
+        "mae": 0.9719979763031006,
+        "direction_accuracy": 1.8779527559055118,
+        "samples": 508,
+        "percentage": 30.38277511961722
+    },
+    "Regime 3: High Vol. Bull": {
+        "mse": 1.693732738494873,
+        "rmse": 1.3014348767782709,
+        "mae": 0.9980337023735046,
+        "direction_accuracy": 1.8135593220338984,
+        "samples": 354,
+        "percentage": 21.17224880382775
+    }
+}

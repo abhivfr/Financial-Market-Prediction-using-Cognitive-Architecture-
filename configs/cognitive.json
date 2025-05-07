@@ -1,0 +1,9 @@
+{
+  "input_dim": 25,
+  "hidden_dim": 64,
+  "num_layers": 2,
+  "dropout": 0.2,
+  "memory_size": 100,
+  "num_regimes": 3,
+  "attention_heads": 4
+}

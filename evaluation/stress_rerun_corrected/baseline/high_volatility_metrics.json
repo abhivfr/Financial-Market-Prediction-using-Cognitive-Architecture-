@@ -1,0 +1,22 @@
+{
+  "overall": {
+    "mse": NaN,
+    "rmse": NaN,
+    "mae": NaN,
+    "direction_accuracy": 0.49106078665077474
+  },
+  "high_volatility_period": {
+    "mse": 1.1669074217090525,
+    "rmse": 1.0802348919142784,
+    "direction_accuracy": 0.8,
+    "samples": 10
+  },
+  "normal_volatility_period": {
+    "mse": null,
+    "rmse": null,
+    "direction_accuracy": 0.4892086330935252,
+    "samples": 1668
+  },
+  "volatility_adaptation": 1.0,
+  "confidence_correlation": null
+}

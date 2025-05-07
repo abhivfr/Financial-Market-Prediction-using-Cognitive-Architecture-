@@ -1,0 +1,20 @@
+{
+    "baseline_metrics": {
+        "price_accuracy": -0.027601118520206847,
+        "volume_correlation": -0.41275913980656054,
+        "returns_stability": 0.16091766953468323,
+        "volatility_prediction": -0.42706737625261276
+    },
+    "cognitive_metrics": {
+        "price_accuracy": 0.07326493522826781,
+        "volume_correlation": -0.3418708333025069,
+        "returns_stability": 0.5690042972564697,
+        "volatility_prediction": 0.6182205453681114
+    },
+    "improvements": {
+        "price_accuracy": 365.4419065467596,
+        "volume_correlation": 17.17425482989315,
+        "returns_stability": 253.59963818878816,
+        "volatility_prediction": 244.75948755271594
+    }
+}
